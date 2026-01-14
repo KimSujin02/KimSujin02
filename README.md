@@ -10,6 +10,21 @@
 |:---:|:---|:---|:---:|:---:|
 | **NewsMind** | 관심 국가/카테고리/키워드 기반 글로벌 뉴스를 수집하고, 자동 번역 및 AI 요약 & 분석을 제공하는 개인화 뉴스 서비스 | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp; ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp; ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp; ![NewsData.io](https://img.shields.io/badge/NewsData.io-1A73E8?style=flat)&nbsp; ![Azure Translator](https://img.shields.io/badge/Azure%20Translator-0078D4?style=flat&logo=microsoftazure&logoColor=white)&nbsp; ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)&nbsp; ![Kakao Login](https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat&logo=kakao&logoColor=000000) | 2025.11.12 ~ 2025.11.28 | [GitHub](https://github.com/KimSujin02/NewsMind) |
 
+## ❤️ 스킬
+| 🌱 Language & Backend Framework & API | 🗄 Database | ☁️ DevOps & Infrastructure |
+|:---|:---|:---|
+|4년 반의 실무 경력의 백엔드 스택을 가지고 있어요!<br><br>- 🍃 **Spring / Spring Boot**<Br>- 🌊 **jQuery**<br>- 🧾 **JSON**<br>- ☕ **Java**<br>- 🟨 **JavaScript**<br>- 🐍 **Python**<br>- 🌐 **HTML5**<br>- 🎨 **CSS**|실제 기업 프로그램 설계 단계에 참여해서 테이블 설계 경험과 여러가지 DB를 실무에서 사용해봤어요!<br><br>- 🔴 **Oracle DB**<br>- 🐬 **MySQL**<br>- 🐬 **MariaDB**<br>- 🔴 **Redis**<br>- 📊 **ClickHouse**<br> |저는 개발 뿐만 아니라 서버간의 접근과 다양한 프로젝트 운영 경험이 있어요!<br><br>- 🐧 **Linux**<br>- 🐧 **Rocky Linux**<br>- 🐧 **CentOS**<br>- 🖥 **Bash**<br>- 🔐 **SSH/Telnet/SFTP**<br>- 🐳 **Docker**<br>- ☁️ **AWS**<br>- 🐱 **Tomcat**<br>- 🌐 **Apache**<br>- 🤵 **Jenkins**<br>- 📦 **Maven**|
+
+| 🔧 Collaboration | 🧑‍💻 Development Tools | 🧠 AI 관련 |
+|:---|:---|:---|
+|여러가지 형상관리 시스템을 사용해봤어요!<br>- 🐢 **SVN**<br>- 🦊 **GitLab**<br>- 🐙 **GitHub**|프로젝트에 맞는 개발 도구를 사용해요!<br><br>- 🌘 **Eclipse**<br>- 🧠 **IntelliJ**<br>- 🐍 **Anaconda**<br>- 🐍 **PyCharm**<br>- **🦫 DBeaver**<br>- 🧪 **Postman** |로컬 LLM 환경 구축 / API 활용<br><br>- **🦙 codellama**<br>- **🦙 ollama-webui**<br>- **🦿 OpenAI API**|
+
+
+
+
+
+
+<!--
 ### 🌱 Language & Backend Framework & API
 
 > 4년 반의 실무 경력으로 전문가 수준의 백엔드 스택을 가지고 있어요!
@@ -76,3 +91,5 @@
 - **🦙 codellama**
 - **🦙 ollama-webui**
 - **🦿 OpenAI API**
+
+-->
