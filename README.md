@@ -1,112 +1,112 @@
-# 안녕하세요 Developer 김수진입니다! 😄👋
+<div align="center">
 
-```
-💞 넘쳐나는 호기심으로 스스로 문제를 찾고 새로운 지식을 배우는 것을 즐거워해요!
-✨ 깊이 있는 분석과 비판적 사고로 항상 더 나은 방법을 고민하고 문제 상황을 해결해내는 것이 저의 강점입니다~!
-```
+  # 안녕하세요 Developer 김수진입니다! 😄👋
+<!-- Badges -->
+<a href="mailto:selina9135@gmail.com"><img src="https://img.shields.io/badge/Email-selina913537%40gmail.com-FFE6F3?style=for-the-badge&logo=gmail&logoColor=F52776"></a>
+<a href="https://github.com/KimSujin02"><img src="https://img.shields.io/badge/GitHub-KimSujin02-FFE6F3?style=for-the-badge&logo=github&logoColor=F52776"></a>
+</div>
+
+---
+
+### 🧑‍💻 About Me
+> 5년 웹 풀스택 개발자 실무 경험을 바탕으로 AI를 공부중입니다.
+
+- 🔭 **I’m currently working on:** 임시
+- 🌱 **I’m currently learning:** 임시
+
+---
+
+
+<div align="center">
+</div>
+
+
+
+## ❤️ Skills
+
+### 🌱 Backend & Framework
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+---
+
+### 🗄 Database
+> 실제 기업 프로그램 설계 단계에 참여해서 테이블 설계 경험과 여러가지 DB를 실무에서 사용해봤어요!
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge)
+
+---
+
+### ☁️ DevOps & Infrastructure
+> 저는 개발 뿐만 아니라 서버간의 접근과 다양한 프로젝트 운영 경험이 있어요!
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
+
+### 🔧 Collaboration
+> 여러가지 형상관리 시스템을 사용해봤어요!
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge)
+
+---
+
+### 🧠 AI / NLP
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 🧑‍💻 Tools
+> 프로젝트에 맞는 개발 도구를 사용해요!
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+
+<!--
+
 ## 🎬 개인 프로젝트
 
 | 프로젝트 명 | 프로젝트 소개 | 사용 기술 | 기간 | 홈페이지 |
 |:---:|:---|:---|:---:|:---:|
 | **NewsMind** | 관심 국가/카테고리/키워드 기반 글로벌 뉴스를 수집하고, 자동 번역 및 AI 요약 & 분석을 제공하는 개인화 뉴스 서비스 | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp; ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp; ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp; ![NewsData.io](https://img.shields.io/badge/NewsData.io-1A73E8?style=flat)&nbsp; ![Azure Translator](https://img.shields.io/badge/Azure%20Translator-0078D4?style=flat&logo=microsoftazure&logoColor=white)&nbsp; ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)&nbsp; ![Kakao Login](https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat&logo=kakao&logoColor=000000) | 2025.11.12 ~ 2025.11.28 | [GitHub](https://github.com/KimSujin02/NewsMind) |
 
-## ❤️ 스킬
-<table>
-  <tr>
-    <th>🌱 Language & Backend<br>Framework & API</th>
-    <th>🗄 Database</th>
-    <th>☁️ DevOps & Infrastructure</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      4년 반의 실무 경력의 백엔드 스택을 가지고 있어요!<br><br>
-      - 🍃 <b>Spring / Spring Boot</b><br>
-      - 🌊 <b>jQuery</b><br>
-      - 🧾 <b>JSON</b><br>
-      - ☕ <b>Java</b><br>
-      - 🟨 <b>JavaScript</b><br>
-      - 🐍 <b>Python</b><br>
-      - 🌐 <b>HTML5</b><br>
-      - 🎨 <b>CSS</b>
-    </td>
-    <td valign="top">
-      실제 기업 프로그램 설계 단계에 참여해서<br>
-      테이블 설계 경험과 여러 DB를 실무에서 사용했어요!<br><br>
-      - 🔴 <b>Oracle DB</b><br>
-      - 🐬 <b>MySQL</b><br>
-      - 🐬 <b>MariaDB</b><br>
-      - 🔴 <b>Redis</b><br>
-      - 📊 <b>ClickHouse</b>
-    </td>
-    <td valign="top">
-      개발뿐만 아니라 서버 운영 경험도 있어요!<br><br>
-      - 🐧 <b>Linux</b><br>
-      - 🐧 <b>Rocky Linux</b><br>
-      - 🐧 <b>CentOS</b><br>
-      - 🖥 <b>Bash</b><br>
-      - 🔐 <b>SSH/Telnet/SFTP</b><br>
-      - 🐳 <b>Docker</b><br>
-      - ☁️ <b>AWS</b><br>
-      - 🐱 <b>Tomcat</b><br>
-      - 🌐 <b>Apache</b><br>
-      - 🤵 <b>Jenkins</b><br>
-      - 📦 <b>Maven</b>
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
-<table>
-  <tr>
-    <th>🔧 Collaboration</th>
-    <th>🧑‍💻 Development Tools</th>
-    <th>🧠 AI 관련</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      여러 형상관리 시스템 사용 경험<br><br>
-      - 🐢 <b>SVN</b><br>
-      - 🦊 <b>GitLab</b><br>
-      - 🐙 <b>GitHub</b>
-    </td>
-    <td valign="top">
-      프로젝트에 맞는 도구 사용<br><br>
-      - 🌘 <b>Eclipse</b><br>
-      - 🧠 <b>IntelliJ</b><br>
-      - 🐍 <b>Anaconda</b><br>
-      - 🐍 <b>PyCharm</b><br>
-      - 🦫 <b>DBeaver</b><br>
-      - 🧪 <b>Postman</b>
-    </td>
-    <td valign="top">
-      로컬 LLM 환경 / API 활용<br><br>
-      - 🦙 <b>codellama</b><br>
-      - 🦙 <b>ollama-webui</b><br>
-      - 🦿 <b>OpenAI API</b>
-    </td>
-  </tr>
-</table>
 
 
 
-
-<!--
-| 🌱 Language & Backend Framework & API | 🗄 Database | ☁️ DevOps & Infrastructure |
-|:---|:---|:---|
-|4년 반의 실무 경력의 백엔드 스택을 가지고 있어요!<br><br>- 🍃 **Spring / Spring Boot**<Br>- 🌊 **jQuery**<br>- 🧾 **JSON**<br>- ☕ **Java**<br>- 🟨 **JavaScript**<br>- 🐍 **Python**<br>- 🌐 **HTML5**<br>- 🎨 **CSS**|실제 기업 프로그램 설계 단계에 참여해서 테이블 설계 경험과 여러가지 DB를 실무에서 사용해봤어요!<br><br>- 🔴 **Oracle DB**<br>- 🐬 **MySQL**<br>- 🐬 **MariaDB**<br>- 🔴 **Redis**<br>- 📊 **ClickHouse**<br> |저는 개발 뿐만 아니라 서버간의 접근과 다양한 프로젝트 운영 경험이 있어요!<br><br>- 🐧 **Linux**<br>- 🐧 **Rocky Linux**<br>- 🐧 **CentOS**<br>- 🖥 **Bash**<br>- 🔐 **SSH/Telnet/SFTP**<br>- 🐳 **Docker**<br>- ☁️ **AWS**<br>- 🐱 **Tomcat**<br>- 🌐 **Apache**<br>- 🤵 **Jenkins**<br>- 📦 **Maven**|
-
-| 🔧 Collaboration | 🧑‍💻 Development Tools | 🧠 AI 관련 |
-|:---|:---|:---|
-|여러가지 형상관리 시스템을 사용해봤어요!<br>- 🐢 **SVN**<br>- 🦊 **GitLab**<br>- 🐙 **GitHub**|프로젝트에 맞는 개발 도구를 사용해요!<br><br>- 🌘 **Eclipse**<br>- 🧠 **IntelliJ**<br>- 🐍 **Anaconda**<br>- 🐍 **PyCharm**<br>- **🦫 DBeaver**<br>- 🧪 **Postman** |로컬 LLM 환경 구축 / API 활용<br><br>- **🦙 codellama**<br>- **🦙 ollama-webui**<br>- **🦿 OpenAI API**|
--->
-
-
-
-
-
-<!--
 ### 🌱 Language & Backend Framework & API
 
 > 4년 반의 실무 경력으로 전문가 수준의 백엔드 스택을 가지고 있어요!
