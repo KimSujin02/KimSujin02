@@ -1,25 +1,29 @@
-<div align="center">
-  
-  # 4년 반 풀스택 개발 경험 기반으로 AI 개발자로 확장한 김수진입니다!
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h2 align="center">👩‍💻4년 반 풀스택 개발 경험 기반의 AI 개발자 김수진입니다!👩‍💻</h2>
+</p>
 
-<!-- Badges -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+AGENT+FULL-STACK+DEVELOPER!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=F79BAB" alt="Example Usage - README Typing SVG">
+</p>
+
+<p align="center">
 <a href="mailto:selina9135@gmail.com"><img src="https://img.shields.io/badge/Email-selina913537%40gmail.com-FFE6F3?style=for-the-badge&logo=gmail&logoColor=F52776"></a>
 <a href="https://github.com/KimSujin02"><img src="https://img.shields.io/badge/GitHub-KimSujin02-FFE6F3?style=for-the-badge&logo=github&logoColor=F52776"></a>
-</div>
+</p>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
 ### 🧑‍💻 About Me
 - 💼 4년 6개월 동안 공공 SI 및 그룹웨어 환경에서 풀스택 개발을 경험했습니다.
-- ☕ Java · Spring 기반 웹 시스템의 분석, 설계, 개발, 배포, 운영 전 과정을 수행했습니다.
+- ☕ Java와 Spring 기반 웹 시스템의 분석, 설계, 개발, 배포, 운영 전 과정을 수행했습니다.
 - 🗄 REST API 설계, 데이터베이스 모델링, 서버 운영 및 CI/CD 구축 경험이 있습니다.
 - 🤖 현재는 LLM, RAG, 멀티 에이전트 기반 AI 시스템을 설계하고 개발하고 있습니다.
-- 🚀 실무 경험을 바탕으로 실제 서비스에 적용 가능한 AI를 만드는 것을 목표로 합니다.
+- 🚀 실무 경험을 바탕으로 실제 서비스에 적용 가능한 AI를 만들고 싶습니다!
 
----
-
-- 🌱 **I’m currently learning**
-  - Agentic AI ● Multi-Agent System ● LangGraph ● RAG ● Fine-tuning ● Model Serving
+### 🌱 **I’m currently learning**
+  - Agentic AI • Multi-Agent System • LangGraph • RAG • Fine-tuning • Model Serving
 
 ---
 
@@ -42,7 +46,6 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
----
 
 ### ⚙️ Backend
 
@@ -56,7 +59,6 @@
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
----
 
 ### 🖥 Frontend
 
@@ -65,7 +67,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
----
 
 ### 📊 Data / Machine Learning
 
@@ -76,7 +77,6 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![RandomForest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge)
 
----
 
 ### 🗄 Database / Vector DB
 
@@ -90,7 +90,6 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A31F4?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
----
 
 ### ☁️ DevOps / Infra
 
@@ -103,7 +102,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
----
 
 ### 🔧 Collaboration / Tools
 
@@ -122,32 +120,31 @@
 ---
 ## 🚀 Projects
 
-### ALPLED
-
+### ALPLED (https://github.com/KimSujin02/ALPLED)
 **AI 기반 SDLC 문서 자동화 플랫폼**
 
-RFP와 회의록을 기반으로 요구사항 정의서, 인터페이스 설계서, 아키텍처 설계서, ERD/DB 설계서, 통합시험 시나리오 등 개발 산출물을 자동 생성하는 AI 문서 자동화 플랫폼입니다.
+제안요청서와 회의록을 기반으로 요구사항 정의서, 인터페이스 설계서, 아키텍처 설계서, ERD설계서, DB 설계서, 통합시험 시나리오 등 개발 산출물을 자동 생성하는 AI 문서 자동화 플랫폼입니다.
 
 * **기술 스택**
-  `Python` `FastAPI` `LangGraph` `Qdrant` `PyMySQL` `PyMuPDF` `python-docx` `AWS EC2, S3, RDS` `Docker` `RunPod` `HuggingFace`
+  `Python` `FastAPI` `LangGraph` `Qdrant` `RAG` `HuggingFace` `PEFT/RORA` `Mermaid` `OnlyOffice` `Docker` `RunPod` `PyMuPDF` `python-docx` `AWS EC2, S3, RDS` 
 
 * **주요 역할**
   * 멀티 에이전트 기반 문서 생성 흐름 설계
   * 산출물별 Agent 실행 순서 및 Supervisor 구조 설계
-  * 요구사항 기반 ERD/DB 설계 자동화 로직 구현
-  * 문서 병합, 검증, 재실행 흐름 설계
+  * 요구사항 기반 ERD/DB 설계 자동화 로직 및 Mermaid code 생성 구현
+  * 문서 이전 이후 변경 내용 검증 코드 설계
   * RAG 및 벡터 검색 기반 문서 생성 구조 설계
 
 ---
 
-### NewsMind (개인 프로젝트)
+### NewsMind (개인 프로젝트 / https://github.com/KimSujin02/NewsMind)
 
-**AI 기반 개인화 글로벌 뉴스 큐레이션 서비스**
+**AI 기반 개인화 글로벌 뉴스 추천 서비스**
 
 사용자의 관심 국가, 카테고리, 키워드를 기반으로 글로벌 뉴스를 수집하고, 자동 번역과 AI 요약/키워드/인사이트 분석을 제공하는 개인화 뉴스 서비스입니다.
 
 * **기술 스택**
-  `Java` `Spring Boot` `MySQL` `AWS EC2` `REST API` `NewsData.io API` `Microsoft Azure Translator API` `OpenAI GPT-4o-mini` `Kakao OAuth`
+  `Java` `Spring Boot` `MySQL` `AWS EC2` `REST API` `NEWSDATA.IO API` `Microsoft Azure Translator API` `OpenAI GPT-4o-mini` `Kakao OAuth`
 
 * **주요 역할**
   * Spring Boot 기반 백엔드 서비스 구현
@@ -160,7 +157,7 @@ RFP와 회의록을 기반으로 요구사항 정의서, 인터페이스 설계�
 
 ---
 
-### DaCare
+### DaCare (https://github.com/KimSujin02/Dacare)
 
 **AI 기반 해외 의료보험 상담 서비스**
 
@@ -173,7 +170,7 @@ RFP와 회의록을 기반으로 요구사항 정의서, 인터페이스 설계�
   * AI 상담 서버 구조 설계 및 구현 참여
   * FastAPI 기반 LLM 서버 구성
   * LangGraph 기반 intent 분기 및 노드 파이프라인 설계
-  * 보험사별 문서 RAG 구조 설계
+  * Allianz 문서 RAG 구조 설계
   * Django 웹 서비스와 AI 서버 연동
   * 채팅 히스토리 저장/조회/삭제 구조 구현 참여
   * AWS 기반 배포 구조 구성 참여
@@ -181,7 +178,7 @@ RFP와 회의록을 기반으로 요구사항 정의서, 인터페이스 설계�
 
 ---
 
-### Telecom Churn Prediction Service
+### Telecom Churn Prediction Service (https://github.com/KimSujin02/Telecom_Churn_Prediction_Service)
 
 **통신사 고객 이탈률 예측 모델 및 예측 서비스**
 
@@ -201,7 +198,7 @@ RFP와 회의록을 기반으로 요구사항 정의서, 인터페이스 설계�
 
 ---
 
-### RoadKeeper
+### RoadKeeper (https://github.com/KimSujin02/RoadKeeper)
 
 **교통사고 위험 지역 분석 서비스**
 
@@ -220,11 +217,6 @@ RFP와 회의록을 기반으로 요구사항 정의서, 인터페이스 설계�
 <!--
 
 ## 🎬 개인 프로젝트
-
-| 프로젝트 명 | 프로젝트 소개 | 사용 기술 | 기간 | 홈페이지 |
-|:---:|:---|:---|:---:|:---:|
-| **NewsMind** | 관심 국가/카테고리/키워드 기반 글로벌 뉴스를 수집하고, 자동 번역 및 AI 요약 & 분석을 제공하는 개인화 뉴스 서비스 | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp; ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp; ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp; ![NewsData.io](https://img.shields.io/badge/NewsData.io-1A73E8?style=flat)&nbsp; ![Azure Translator](https://img.shields.io/badge/Azure%20Translator-0078D4?style=flat&logo=microsoftazure&logoColor=white)&nbsp; ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)&nbsp; ![Kakao Login](https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat&logo=kakao&logoColor=000000) | 2025.11.12 ~ 2025.11.28 | [GitHub](https://github.com/KimSujin02/NewsMind) |
-
 
 
 
